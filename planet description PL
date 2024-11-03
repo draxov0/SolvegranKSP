@@ -1,0 +1,250 @@
+
+		===		SYSTEM SOLVEGRAN       	    ===
+
+
+SOLVEGRA 	-	czerwony karzeł stanowiący centrum układu solvegrańskiego
+			masa = 1.02 słońca
+			półokres aktywnośći = 11 ziemskich lat
+			czas egzystencji = 50 mld lat
+			wiek = 4 mld lat	
+
+
+HSEON		-	mała skalista planeta bez atmosfety i pola magnetycznego, orbituje bardzo blisko solvegry, nie posiada księżyców
+			rok = 78 soli
+			dzień = 78 soli
+			nachylenie orbity = 13*
+			nachylenie osi = 0*
+			promień = 2234 km
+			grawitacja = 0,36g
+
+			
+UTHORA	-	dużej wielkości planeta skalista z gęstą atmosferą i silnym polem magnetycznym, posiada jednego satelitę 
+			rok = 210 soli
+			dzień = 19 h
+			nachylenie orbity= 7*
+			nachylenie osi = 14*
+			promień = 7041km
+			grawitacja = 1,9 g
+			ciśnienie = 94 bar
+			atmosfera = 92% co2, azot 6% i reszta
+
+UTHION	-	mały krystaliczny księżyc zniekrztałcony przez uthorę, zablokowany pływowo
+			miesiąc = 60 soli
+			nachylenie orbity = 10*
+			promień orbity = 300 000km
+			dzień = 14h
+			promień = 400km
+			grawitacja = 0,001g
+	
+
+DAGUA		-	średniej wielkości planeta skalista z bardzo mocnym polem magnetycznym posiadająca faunę i florę, jest pokryta w 54% oceanami z wody, ma dwa księżyce, planeta ojczysta smoków
+			rok = 523 sole
+			dzień = 32 h/ 1sol
+			nachylenie orbity = 1*
+			nachylenie osi = 16*
+			promień = 6472km
+			grawitacja = 1g
+			ciśnienie = 1020 hPa
+			atmosfera = 68% azot, 30% tlen i reszta
+
+LUNIS 		-	średni skalisty księżyc bez atmosfery bogaty w żelazo [księżyc z butelką w łapie]
+			miesiąc = 31 soli
+			dzień = 20 soli
+			nachylenie orbity = 0.1*
+			nachylenie osi = 0*
+			promień = 1434km
+			grawitacja = 0,21g
+			
+
+KEIRUS 	-	mały księżyc złożony z kamieni, ma "oceany" szkła [księżyc z fają w mordzie]
+			miesiąc = 120 soli
+			dzień = 120 soli
+			nachylenie orbity = 6,4*
+			nachylenie osi = 0*
+			promień = 760 km
+			grawitacja = 0,06g
+
+
+ARKAN		-	średniej wielkości planeta skalista z silnymi burzami i słabym polem magnetycznym, kiedyś posiadała życie w postaci roślin, aktualnie pokryta piaskiem i rdzą
+			rok = 670 soli
+			dzień = 25 h
+			nachylenie orbity = 2*
+			nachylenie osi = 32*
+			promień = 5234km
+			grawitacja = 0,43g
+			ciśnienie = 700 hPa
+			atmosfera = 60% dwutlenek węgla, 30% azot i reszta
+
+RENED 		-	średniej wielkości księżyc złożony ze skał i utwardzonej lawy
+			miesiąc = 30 soli
+			dzień = 30 soli
+			nachylenie orbity = 4*
+			nachylenie osi = 0*
+			promień = 1343km
+			grawitacja = 0,2g
+			
+
+
+LORTH		-	mała planeta karłowata która jest w pasie asteroid, w większości z żelaza i skały
+			rok = 923 sole
+			dzień =1020 sole
+			nachylenie orbity = 10*
+			nachylenie osi = 3*
+			promień = 923 km
+			grawitacja = 0.06g
+
+
+
+AITERA		-	to gazowy gigant z pierścieniami i bardzo mocnym polem magnetycznym
+			rok = 14 121soli
+			dzień = 16h
+			nachylenie orbity = 1*
+			nachylenie osi = 1*
+			promień = 62 000 km
+			masa = 5,6714×10^26 kg
+
+ULGID		-	mały księżyc złożony z odłamków pierścieni aitery
+			dzień =  30 h
+			nachylenie orbity = 1*
+			nachylenie osi = 2*
+			promień = 90 km
+			grawitacja = 0.003g
+
+ERIA		-	duży księżyc zolny podtrzymać życie 
+			miesiąc = 2 sole 
+			dzień =  1.5 sole
+			nachylenie orbity = 3*
+			nachylenie osi = 12*
+			promień = 6300 km
+			grawitacja = 0.8 g
+
+LYKIE		-	średni księżyc skalny zablokowany pływowo
+			miesiąc = 4 sole
+			dzień = 4 sole
+			nachylenie orbity = 8*
+			nachylenie osi = 7*
+			promień = 3730 km
+			grawitacja = 0.5 g
+
+ORON		-	duży księżyc wulkaniczny zablokowany pływowo
+			miesiąc = 8 soli
+			dzień = 8 soli
+			nachylenie orbity = 
+			nachylenie osi = 
+			promień = 
+			grawitacja = 
+
+
+
+
+LUKNOK	-	największa planeta systemu solvegra, gazowy gigant
+			rok = 21 372 soli
+			dzień = 19h
+			nachylenie orbity = -0.2*
+			nachylenie osi = 2*
+			promień = 80 000 km
+			masa = 1,89819×10^27 kg
+
+KELLER		-	duży księżyc z zamarzniętymi oceanami, cienką atmosferą i szczytami górskimi które sięgają ponad atmosferę
+
+KANU		-	mały księżyc skalny o nieregularnym krztałcie
+
+UTAG		-	duży księżyc z bardzo gęstą atmosferą
+
+SIAPE		-	dużu księżyc skalny
+…
+ETANIA		-	średni księżyc lodowy
+
+
+
+NOTIS		-	gazowy gigant małej klasy
+			rok = 29 420 soli
+			dzień = 20h
+			nachylenie orbity = 4*
+			nachylenie osi = 3*
+			promień = 40 000 km
+			masa = 2,6414×10^26 kg
+			
+ANK		-	mały księżyc, który się powoli zamienia w pierścienie
+
+EUCLID		-	mały księżyc z cienką atmosferą
+
+NOYES		-	średni księżyc skalisty 
+
+LINGTON	-	duży księżyc lodowy
+
+
+
+LIANUS		-	gazowy gigant małej klasy
+			rok = 34 124 soli
+			dzień = 40h
+			nachylenie orbity = 2*
+			nachylenie osi = 30*
+			promień = 32 000 km
+			masa = 2,1324×10^26 kg
+
+XETER		-	mały księżyc lodowy  z cienką atmosferą
+
+ZION		-	mały księżyc skalny
+
+ENETH		-	średni księżyc lodowy
+
+
+
+TRILLON	- 	planeta skalista z gęstą atmosferą, zablokowana pływowo ze swoim księżycem triosem
+			rok = 41 400 soli
+			dzień = 30h
+			nachylenie orbity = 3*
+			nachylenie osi = 4*
+			promień = 24 000 km
+			masa = 4,323×10^25 kg
+
+TRIOS		-	duży księżyc skalno krystaliczny zablokowany pływowo, który ma własny księżyc
+
+TREON		-	mały księżyc wulkaniczny na orbicie wstecznej, który orbituje triosa
+
+
+
+BOLION	-	mała planeta wulkaniczna z wysoką aktywnością sejsmiczną
+			rok = 34 000 soli
+			dzień = 132 sole
+			nachylenie orbity = 13*
+			nachylenie osi = 12*
+			promień = 600 km
+			masa = 3,132×10^22 kg
+
+HEKKO		- 	mały księżyc na mocno nachylonej orbicie wstecznej
+
+
+
+PERRUS	-	planeta karłowata z pierścieniami
+			rok = 55 000 soli
+			dzień = 12 soli
+			nachylenie orbity = 1*
+			nachylenie osi = 20*
+			promień = 300 km
+			masa = 6,112×10^21 kg
+
+
+GRANI		-	bardzo daleka planeta karłowata
+			rok = 95 000 soli
+			dzień = 12 soli
+			nachylenie orbity = 1*
+			nachylenie osi = 20*
+			promień = 300 km
+			masa = 1,432×10^21 kg
+
+			
+
+
+
+
+
+
+
+
+
+
+
+
+			
