@@ -1,0 +1,56 @@
+PÓŁNOCNE CENTRUM KOSMICZNE LOTÓW W GÓRĘ I TROCHĘ W BOK	
+
+KS-1		
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+centrum kosmiczne imienia papieża wojtyły
+
+KS-10			Baitar-12
+KS-11			Drach-3, z85
+KS-12			ICBM / Adrak-1n
+KS-14			z160, stral
+KS-16			Adrak-1n, Adrak-1, Adrak-2
+KS-18	(z)	Adrak-5, Adrak-6, Adrak-7 (ZENIT, COVUA)
+KS-20			Test platforma
+KS-22			Adrak-(3,5,6,7)
+KS-24	(z)	Kaktet
+KS-27			Frajerwerki
+KS-28A		Rakan-(1,1b,2,2b,2br,3br,6b,heavy,kaktet)
+KS-28B (z)	Rakan-(1,1b,2,2b,2br,3br,6b,heavy,kaktet)		
+ST-3			vertical static fire pad			
+ST-4			horizontal static fire pad
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
+fajerwerki
+drach-3
+baitar-9
+baitar-12, baitar-norkeus
+z-85
+z-160
+adrak-1, 1n, 2
+adrak-(3-7)
+adrak-6, crew
+adrak-kaktet crew
+rakan-1, 1b 
+rakan-2, rakan-2b, rakan-2c, rakan-3b3, rakan-3b2
+rakan-kaktet crew
+skadir-2
+skadir-2 crew
+skadir-4, skadir-4 crew
+skadir-5, skadir-5 crew
+ICBM
+platforma testowa
+zbrojona platforma testowa
+staticfire
+shuttle landing facility
+runway 27-09
+runway 00-18
+
+północne centrum kosmiczne
+drach-(1-3)
+baitar-(1-11) 
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+
