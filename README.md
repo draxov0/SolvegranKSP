@@ -7,4 +7,4 @@ there (will be) are few versions of this mod
 - SolvegranSystem_8xRESCALE (real life scale, so dagua is slightly larger than earth)
 - SolvegranSystem_1xRESCALE (KSP scale, so dagua is slightly smaller than kerbin)
 - *maybe in future - SolvegranSystem_STORY_MODE (with fauna & flora, missions, wars, entire Daguan space program to do, etc.)
-i will be making also expansions for this mod with even more worlds to go to visit (interstellar ship goes nyoomm...)
+- I will be making also expansions for this mod with even more worlds to go to visit (interstellar ship goes nyoomm...)
