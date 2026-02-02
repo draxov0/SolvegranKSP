@@ -1,7 +1,6 @@
 # SolvegranKSP
 Kerbal Space Program 1 planet pack that adds the vast solvegran system.made in POLSKA.
-This is far more expanded universe, this mod is only a representation in KSP, there's much more to it
-Native Daguans have built a kinda technological civilisation
+This is far more expanded universe, this mod is only a representation in KSP
 
 there (will be) are few versions of this mod
 - SolvegranSystem_A (adds solvegran system as a far away destination)
